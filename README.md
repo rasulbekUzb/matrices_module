@@ -1,2 +1,2 @@
 # matrices_module
-Python module to work with matrices
+Here you can find my simple projects/algorithms
